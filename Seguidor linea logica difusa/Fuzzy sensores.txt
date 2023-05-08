@@ -1,0 +1,11 @@
+Inicio= 7.51                       g_fisOutput[0]<=10
+No Camino= 23.01                   g_fisOutput[0]>10 && g_fisOutput[0]<=30
+Izquierda= 46.01                   g_fisOutput[0]>30 && g_fisOutput[0]<=55
+Derecha= 69                        g_fisOutput[0]>55 && g_fisOutput[0]<=80
+Cruz= 92                           g_fisOutput[0]>80 && g_fisOutput[0]<=100
+T= 115                             g_fisOutput[0]>100 && g_fisOutput[0]<=125
+Meta= 138                          g_fisOutput[0]>125 && g_fisOutput[0]<=150
+T Izquierda= 161                   g_fisOutput[0]>150 && g_fisOutput[0]<=170
+T Derecha= 184                     g_fisOutput[0]>170 && g_fisOutput[0]<=195
+Poquito izquierda= 207             g_fisOutput[0]>195 && g_fisOutput[0]<=220
+Poquito Derecha= 230.65            g_fisOutput[0]>220
